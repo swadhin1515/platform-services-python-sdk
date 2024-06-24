@@ -1,0 +1,188 @@
+repo_name: swadhin1515/platform-services-python-sdk
+report_id: 68a712f60d695eb4fa78d61d56179508
+version: 0.1
+repo_type: Public
+timestamp: '2024-06-24T15:44:35+00:00'
+requested_by: semantic-release-bot
+provider: github
+branch: main
+detected_tools_count: 14
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/swadhin1515/platform-services-python-sdk/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Phil Adams
+  last_updated_on: 2023-01-09 22:06:00.000000000 Z
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/swadhin1515/platform-services-python-sdk
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/swadhin1515/platform-services-python-sdk/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Phil Adams
+  last_updated_on: 2024-02-28 22:26:59.000000000 Z
+- name: Codecov
+  description: Hosted coverage reports with awesome features to enhance your CI workflow
+  website_url: https://codecov.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png
+  detection_source_url: https://github.com/swadhin1515/platform-services-python-sdk/blob/main/codecov.yml
+  detection_source: codecov.yml
+  last_updated_by: Phil Adams
+  last_updated_on: 2020-10-31 13:44:41.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/swadhin1515/platform-services-python-sdk
+  detection_source: Repo Metadata
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/swadhin1515/platform-services-python-sdk/blob/main/requirements.txt
+  detection_source: requirements.txt
+  last_updated_by: Phil Adams
+  last_updated_on: 2024-02-28 22:26:59.000000000 Z
+- name: Pylint
+  description: Source-code, bug and quality checker for the Python programming language
+  website_url: https://www.pylint.org/
+  version: 3.0.0
+  license: GPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/4837/py.jpg
+  detection_source_url: https://github.com/swadhin1515/platform-services-python-sdk/blob/main/requirements-dev.txt
+  detection_source: requirements-dev.txt
+  last_updated_by: Phil Adams
+  last_updated_on: 2023-10-03 20:39:48.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/swadhin1515/platform-services-python-sdk/blob/main/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Phillip C Adams
+  last_updated_on: 2020-03-30 13:47:08.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/swadhin1515/platform-services-python-sdk/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Phil Adams
+  last_updated_on: 2023-01-09 22:06:00.000000000 Z
+- name: pytest
+  description: A full-featured Python testing tool to help you write better programs
+  website_url: http://pytest.org/latest/
+  version: 7.4.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/4586/Lu99Qe0Z_400x400.png
+  detection_source_url: https://github.com/swadhin1515/platform-services-python-sdk/blob/main/requirements-dev.txt
+  detection_source: requirements-dev.txt
+  last_updated_by: Phil Adams
+  last_updated_on: 2023-10-03 20:39:48.000000000 Z
+- name: semantic-release
+  description: Fully automated version management and package publishing
+  website_url: https://github.com/semantic-release/semantic-release
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10156/12867925.png
+  detection_source_url: https://github.com/swadhin1515/platform-services-python-sdk/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Phil Adams
+  last_updated_on: 2023-07-17 15:56:38.000000000 Z
+- name: "@semantic-release/changelog"
+  description: Semantic-release plugin to create or update a changelog file
+  package_url: https://www.npmjs.com/@semantic-release/changelog
+  version: 6.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16473/default_482cf308e8fc087eee8e154f29cc142c834abc51.png
+  detection_source_url: https://github.com/swadhin1515/platform-services-python-sdk/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Phil Adams
+  last_updated_on: 2023-07-17 15:56:38.000000000 Z
+- name: "@semantic-release/git"
+  description: Semantic-release plugin to commit release assets to the project's git
+    repository
+  package_url: https://www.npmjs.com/@semantic-release/git
+  version: 10.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16388/default_3d8bf87f0e09f3da6536330e02ffa89677f8784b.png
+  detection_source_url: https://github.com/swadhin1515/platform-services-python-sdk/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Phil Adams
+  last_updated_on: 2023-07-17 15:56:38.000000000 Z
+- name: semantic-release
+  description: Automated semver compliant package publishing
+  package_url: https://www.npmjs.com/semantic-release
+  version: 21.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15935/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/swadhin1515/platform-services-python-sdk/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Phil Adams
+  last_updated_on: 2023-07-17 15:56:38.000000000 Z
